@@ -6,7 +6,7 @@ Simple app to generate and download a QR code that can be used to share a link. 
 [Live Demo](https://easyqrcodes.netlify.app/)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="img/full-screen.png" style="width: 45%; margin-right: 10px;">
+  <img src="img/full-screen.png" style="width: 45%; margin-right: 50px;">
   <img src="img/mobile-screen.png" style="width: 20%; height: auto;">
 </div>
 
