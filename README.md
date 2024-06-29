@@ -3,7 +3,7 @@
 Simple app to generate and download a QR code that can be used to share a link. This project is built using HTML, Tailwind CSS, and JavaScript.
 
 
-[Live Demo]()
+[Live Demo](https://easyqrcodes.netlify.app/)
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="img/full-screen.png" style="width: 45%; margin-right: 10px;">
